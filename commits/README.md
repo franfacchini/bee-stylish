@@ -17,7 +17,7 @@ Vamos melhorar isso levando em consideração os seguintes pontos:
 * Manter um padrão entre os desenvolvedores
 * Passar o contexto da mudança
 * Ajudar na mantenabilidade do projeto em longo prazo
-* Facilitar a geração de `changelog`
+* Facilitar a geração de `changelog` 
 
 
 ## Como alcançar este `log` que jorra leite e mel?
